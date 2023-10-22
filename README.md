@@ -1,1 +1,1 @@
-# Awesome-LLM-KG
+# Awesome-LLM-EN
