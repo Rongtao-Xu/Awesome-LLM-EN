@@ -14,3 +14,6 @@ Among the numerous applications of LLMs, navigation tasks stand out as they requ
   - [Related Surveys](#related-surveys)
 ##
 ## Related Surveys
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/Awesome-LLM-EN&type=Date)](https://star-history.com/#PlexPt/Awesome-LLM-EN&Date)
