@@ -12,7 +12,7 @@ In recent years, the rapid advancement of Large Language Models (LLMs) like GPT 
 
 Among the numerous applications of LLMs, navigation tasks stand out as they require deep environmental understanding and quick, accurate decision-making. LLMs can enrich embodied intelligence systems with advanced environmental perception and decision-making support through their robust language and image processing skills. This article focuses on navigation, offering a comprehensive summary of the integration between LLMs and embodied intelligence. It covers state-of-the-art models, research methodologies, and evaluates the pros and cons of current embodied navigation models and datasets. Finally, the article provides insights into the role of LLMs in embodied intelligence based on the latest research, projecting future developments in the field.
 
-<img src="figs/Awesome-LLM-EN.png" width = "600" />
+<img src="figs/Awesome-LLM-EN.png" width = "800" algin = "center"/>
 
 ## News
 😊 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
