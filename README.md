@@ -30,6 +30,7 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
 <p align="center">
   <img src="figs/SemanticPic.png" width = "800"/>
 </p>
+
 ## Table of Contents
 - [Awesome-LLM-EN](#awesome-llm-en)
   - [News](#news)
