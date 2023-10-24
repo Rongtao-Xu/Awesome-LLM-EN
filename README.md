@@ -14,9 +14,18 @@ Among the numerous applications of LLMs, navigation tasks stand out as they requ
 
 <img src="figs/Awesome-LLM-EN.png" width = "600" />
 
-
 ## News
+😊 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
+* Our Awesome-LLM-EN reasoning paper: is now public.
+
 ## Overview
+In this repository, we collect recent advances in unifying LLMs and Agents. We have identified two commonly used general models: *1) LLM for Planner and *2) LLM for Semantic Understanding..
+
+<img src="figs/Planner.png" width = "800" />
+
+
+<img src="figs/Semantic.png" width = "600" />
+
 ## Table of Contents
 - [Awesome-LLM-EN](#awesome-llm-en)
   - [News](#news)
