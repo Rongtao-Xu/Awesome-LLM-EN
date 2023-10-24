@@ -21,10 +21,10 @@ Among the numerous applications of LLMs, navigation tasks stand out as they requ
 ## Overview
 In this repository, we collect recent advances in unifying LLMs and Agents. We have identified two commonly used general models: *1) LLM for Planner and *2) LLM for Semantic Understanding..
 
-<img src="figs/PlannerPic.png" width = "800" />
+<img src="figs/PlanningPic.png" width = "800" algin = "center"/>
 
 
-<img src="figs/SemanticPic.png" width = "800" />
+<img src="figs/SemanticPic.png" width = "800" algin = "center"/>
 
 ## Table of Contents
 - [Awesome-LLM-EN](#awesome-llm-en)
@@ -32,8 +32,29 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Related Surveys](#related-surveys)
-##
+ -  [LLMs for Grounded Language Understanding](#llms-for-grounded-language-understanding)
+    - [KG-enhanced LLM Pre-training](#kg-enhanced-llm-pre-training)
+    - [KG-enhanced LLM Inference](#kg-enhanced-llm-inference)
+    - [KG-enhanced LLM Interpretability](#kg-enhanced-llm-interpretability)
+  - [LLMs for Few-Shot Planning](#llms-for-grounded-few-shot-planning)
+    - [LLM-augmented KG Embedding](#llm-augmented-kg-embedding)
+    - [LLM-augmented KG Completion](#llm-augmented-kg-completion)
+    - [LLM-augmented KG-to-Text Generation](#llm-augmented-kg-to-text-generation)
+    - [LLM-augmented KG Question Answering](#llm-augmented-kg-question-answering)
+  - [Applications](#applications)
+    - [Navigation](#navigation)
+    - [Assistant](#assistant)
+    
 ## Related Surveys
+
+* Unifying Large Language Models and Knowledge Graphs: A Roadmap (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2306.08302.pdf)
+* A Survey on Knowledge-Enhanced Pre-trained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2212.13428.pdf)
+* A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2202.08772.pdf)
+* A Review on Language Models as Knowledge Bases (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2204.06031.pdf)
+* Generative Knowledge Graph Construction: A Review (EMNLP, 2022) [[paper]](https://arxiv.org/pdf/2210.12714.pdf)
+* Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08455.pdf)
+* Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2212.05767)[[code]](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
+
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/Awesome-LLM-EN&type=Date)](https://star-history.com/#PlexPt/Awesome-LLM-EN&Date)
