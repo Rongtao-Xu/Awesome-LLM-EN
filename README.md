@@ -44,17 +44,16 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
   - [Applications](#applications)
     - [Navigation](#navigation)
     - [Assistant](#assistant)
-    
+
 ## Related Surveys
 
-* Unifying Large Language Models and Knowledge Graphs: A Roadmap (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2306.08302.pdf)
-* A Survey on Knowledge-Enhanced Pre-trained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2212.13428.pdf)
-* A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2202.08772.pdf)
-* A Review on Language Models as Knowledge Bases (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2204.06031.pdf)
-* Generative Knowledge Graph Construction: A Review (EMNLP, 2022) [[paper]](https://arxiv.org/pdf/2210.12714.pdf)
-* Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08455.pdf)
-* Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2212.05767)[[code]](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
-
+* A Real 3D Embodied Dataset for Robotic Active Visual Learning (IEEE, 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9729641)
+* ProcTHOR: Large-Scale Embodied AI Using Procedural Generation (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2206.06994.pdf)
+* SOON: Scenario Oriented Object Navigation with Graph-based Exploration (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2103.17138.pdf)
+* Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding (Arxiv, 2020) [[paper]](https://arxiv.org/pdf/2010.07954.pdf)
+* Reverie: Remote embodied visual referring expression in real indoor environments (Arxiv, 2019) [[paper]](https://arxiv.org/pdf/1904.10151.pdf)
+* Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments (CVPR, 2018) [[paper]](https://arxiv.org/pdf/1711.07280.pdf)
+* Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments (CVPR, 2019) [[paper]](https://arxiv.org/pdf/1811.12354.pdf)
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/Awesome-LLM-EN&type=Date)](https://star-history.com/#PlexPt/Awesome-LLM-EN&Date)
