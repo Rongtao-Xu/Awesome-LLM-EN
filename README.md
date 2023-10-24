@@ -1,10 +1,11 @@
 # Awesome-LLM-EN
   [![Awesome](https://img.shields.io/badge/Awesome-LLM-EN)](https://github.com/Rongtao-Xu/Awesome-LLM-EN) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-  ![](https://img.shields.io/github/last-commit/RManLuo/Awesome-LLM-KG?color=green) 
+  ![](https://img.shields.io/github/last-commit/RManLuo/Awesome-LLM-EN?color=green) 
  ![](https://img.shields.io/badge/PRs-Welcome-red)
- ![](https://img.shields.io/github/stars/RManLuo/Awesome-LLM-KG?color=yellow)
-![](https://img.shields.io/github/forks/RManLuo/Awesome-LLM-KG?color=lightblue) 
+ ![](https://img.shields.io/github/stars/RManLuo/Awesome-LLM-EN?color=yellow)
+![](https://img.shields.io/github/forks/RManLuo/Awesome-LLM-EN?color=lightblue) 
+
 This is a compilation on "LLMs for Embodied Navigation," including state-of-the-art benchmarks and datasets.
 
 In recent years, the rapid advancement of Large Language Models (LLMs) like GPT has garnered increasing attention for their potential in various practical applications. The integration of LLMs with Embodied Intelligence has emerged as a new focal area. Embodied Intelligence underscores that intelligent behavior stems not just from computational models but also involves physical interactions between robots or intelligent agents and their environment. The essence of embodied intelligence is that genuine intelligence requires the context of both the body and the surrounding environment, necessitating systems that can perceive through sensors and act via actuators. This integration is especially critical for applications that demand language and image processing capabilities. Overall, the amalgamation of LLMs and embodied intelligence offers immense potential and opens up new avenues for AI application, raising fresh research challenges including model interpretability and real-time performance.
