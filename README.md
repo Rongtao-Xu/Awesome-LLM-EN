@@ -57,6 +57,18 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
 * Reverie: Remote embodied visual referring expression in real indoor environments (Arxiv, 2019) [[paper]](https://arxiv.org/pdf/1904.10151.pdf)
 * Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments (CVPR, 2018) [[paper]](https://arxiv.org/pdf/1711.07280.pdf)
 * Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments (CVPR, 2019) [[paper]](https://arxiv.org/pdf/1811.12354.pdf)
+## LLMs for Grounded Language Understanding
+"Grounded Language Understanding" aims to reconcile the abstract symbols processed by language models with concrete entities, actions, or states in the physical or simulated world. This is pivotal for applications requiring real-world interaction, such as robotic control, natural language interfaces, or advanced research in Embodied Intelligence.
+
+  Within this context, LLMs like GPT-3, GPT-4, and BERT can integrate with sensors, databases, or simulated environments to generate and interpret language applicable to real-world scenarios. In a robotic setting, for instance, an LLM could interpret sensor data, process natural language directives, and issue control signals to the robot, thereby bridging high-level language and low-level actions.
+
+  LLMs' application in grounded language understanding is an evolving research area, intersecting with disciplines such as robotics, computer vision, and human-computer interaction. Techniques like Few-Shot Learning and Transfer Learning are commonly used to adapt these pre-trained models to specialized grounding tasks with minimal additional training.
+
+  Although LLMs have advanced significantly in NLP, they primarily excel in text generation or classification and seldom engage with tangible entities or real-world situations. Their limitations include a lack of foundational knowledge, impairing their ability to process interrelated concepts and function in interactive settings . To mitigate these issues, researchers have employed various strategies, such as 1) fine-tuning pre-trained models, 2) implementing reinforcement learning algorithms for decision-making in complex environments, and 3) devising specialized architectures for multimodal learning.
+
+  For example, Yang et al. introduced LLM-Grounder, which integrates GPT-4 with CLIP for applications in 3D visual grounding. Carta et al.\cite{carta2023grounding}utilized online reinforcement learning to boost LLM performance in reinforcement learning tasks, improving both sample efficiency and generalization.
+
+  Despite their immense potential and practical applications, LLMs face numerous technical and theoretical challenges in grounded language understanding. These include the integration of text, images, and sensor data, latency reduction for real-time applications, and maintaining training efficiency without sacrificing performance. With ongoing research and emerging technologies, significant advancements in this domain are anticipated.
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/Awesome-LLM-EN&type=Date)](https://star-history.com/#PlexPt/Awesome-LLM-EN&Date)
