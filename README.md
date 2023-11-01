@@ -1,10 +1,10 @@
 # Awesome-LLM-EN
   [![Awesome](https://img.shields.io/badge/Awesome-LLM-EN)](https://github.com/Rongtao-Xu/Awesome-LLM-EN) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-  ![](https://img.shields.io/github/last-commit/RManLuo/Awesome-LLM-EN?color=green) 
+  ![](https://img.shields.io/github/last-commit/Rongtao-Xu/Awesome-LLM-EN?color=green) 
  ![](https://img.shields.io/badge/PRs-Welcome-red)
- ![](https://img.shields.io/github/stars/RManLuo/Awesome-LLM-EN?color=yellow)
-![](https://img.shields.io/github/forks/RManLuo/Awesome-LLM-EN?color=lightblue) 
+ ![](https://img.shields.io/github/stars/Rongtao-Xu/Awesome-LLM-EN?color=yellow)
+![](https://img.shields.io/github/forks/Rongtao-Xu/Awesome-LLM-EN?color=lightblue) 
 
 <div style="text-align: justify">
 
