@@ -85,7 +85,7 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
 * Vision-based navigation with language-based assistance via imitation learning with indirect intervention (CVPR, 2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nguyen_Vision-Based_Navigation_With_Language-Based_Assistance_via_Imitation_Learning_With_Indirect_CVPR_2019_paper.pdf)
 * VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2307.05973.pdf)
 * Visual language maps for robot navigation (IEEE, 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10160969)
-
+*Language Models as Zero-Shot Planners:Extracting Actionable Knowledge for Embodied Agents (ICLR, 2022)[[paper]](https://openreview.net/forum?id=6NT1a56mNim)
 
 
 ## LLMs for Few-Shot Planning
