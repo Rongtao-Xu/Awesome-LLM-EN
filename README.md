@@ -26,7 +26,11 @@ Among the numerous applications of LLMs, navigation tasks stand out as they requ
 * Our Awesome-LLM-EN reasoning paper: [The Development of LLMs forEmbodied Navigation](https://arxiv.org/pdf/2311.00530.pdf) is now public.
 
 ## Overview
-In this repository, we collect recent advances in unifying LLMs and Agents. We have identified two commonly used general models: *1) LLM for Planner and *2) LLM for Semantic Understanding..
+In this repository, we collect recent advances in unifying LLMs and Agents. We have identified two commonly used general models: 
+
+🤖 1) LLM for Planner and 
+
+🤖 2) LLM for Semantic Understanding..
 
 <p align="center">
   <img src="figs/PlanningPic.png" width = "800"/>
