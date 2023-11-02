@@ -23,7 +23,7 @@ Among the numerous applications of LLMs, navigation tasks stand out as they requ
 
 ## News
 😊 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
-* Our Awesome-LLM-EN reasoning paper: is now public.
+* Our Awesome-LLM-EN reasoning paper[Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning](https://arxiv.org/abs/2311.00530): is now public.
 
 ## Overview
 In this repository, we collect recent advances in unifying LLMs and Agents. We have identified two commonly used general models: *1) LLM for Planner and *2) LLM for Semantic Understanding..
@@ -57,18 +57,25 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
 * Reverie: Remote embodied visual referring expression in real indoor environments (Arxiv, 2019) [[paper]](https://arxiv.org/pdf/1904.10151.pdf)
 * Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments (CVPR, 2018) [[paper]](https://arxiv.org/pdf/1711.07280.pdf)
 * Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments (CVPR, 2019) [[paper]](https://arxiv.org/pdf/1811.12354.pdf)
+
 ## LLMs for Grounded Language Understanding
-"Grounded Language Understanding" aims to reconcile the abstract symbols processed by language models with concrete entities, actions, or states in the physical or simulated world. This is pivotal for applications requiring real-world interaction, such as robotic control, natural language interfaces, or advanced research in Embodied Intelligence.
 
-  Within this context, LLMs like GPT-3, GPT-4, and BERT can integrate with sensors, databases, or simulated environments to generate and interpret language applicable to real-world scenarios. In a robotic setting, for instance, an LLM could interpret sensor data, process natural language directives, and issue control signals to the robot, thereby bridging high-level language and low-level actions.
+* Esc: Exploration with soft commonsense constraints for zero-shot object navigation (Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2301.13166.pdf)
+* SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments (Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2309.04077.pdf)
+* L3MVN: Leveraging Large Language Models for Visual Target Navigation (Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2304.05501.pdf)
+* Zson: Zero-shot object-goal navigation using multimodal goal embeddings (NIPS, 2022)[[paper]](https://arxiv.org/pdf/2304.05501.pdf)
+* Clip-nav: Using clip for zero-shot vision-and-language navigation (Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2211.16649.pdf)
+* Clip on wheels: Zero-shot object navigation as object localization and exploration (Arxiv, 2023)[[paper]](http://arxiv.org/pdf/2203.10421v1)
 
-  LLMs' application in grounded language understanding is an evolving research area, intersecting with disciplines such as robotics, computer vision, and human-computer interaction. Techniques like Few-Shot Learning and Transfer Learning are commonly used to adapt these pre-trained models to specialized grounding tasks with minimal additional training.
 
-  Although LLMs have advanced significantly in NLP, they primarily excel in text generation or classification and seldom engage with tangible entities or real-world situations. Their limitations include a lack of foundational knowledge, impairing their ability to process interrelated concepts and function in interactive settings . To mitigate these issues, researchers have employed various strategies, such as 1) fine-tuning pre-trained models, 2) implementing reinforcement learning algorithms for decision-making in complex environments, and 3) devising specialized architectures for multimodal learning.
+## LLMs for Few-Shot Planning
 
-  For example, Yang et al. introduced LLM-Grounder, which integrates GPT-4 with CLIP for applications in 3D visual grounding. Carta et al.\cite{carta2023grounding}utilized online reinforcement learning to boost LLM performance in reinforcement learning tasks, improving both sample efficiency and generalization.
-
-  Despite their immense potential and practical applications, LLMs face numerous technical and theoretical challenges in grounded language understanding. These include the integration of text, images, and sensor data, latency reduction for real-time applications, and maintaining training efficiency without sacrificing performance. With ongoing research and emerging technologies, significant advancements in this domain are anticipated.
+* A<sup>2</sup>Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2308.07997)
+* March in Chat: Interactive Prompting for Remote Embodied Referring Expression (ICCV, 2023)[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Qiao_March_in_Chat_Interactive_Prompting_for_Remote_Embodied_Referring_Expression_ICCV_2023_paper.pdf)
+* NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models (Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2305.16986.pdf)
+* VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View (Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2307.06082.pdf)
+* OVRL-V2: A simple state-of-art baseline for ImageNav and ObjectNav (Arxiv, 2023)[[paper]](https://arxiv.org/pdf/2303.07798.pdf)
+* Sqa3d: Situated question answering in 3d scenes (Arxiv, 2022)[[paper]](https://arxiv.org/pdf/2210.07474.pdf)
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/Awesome-LLM-EN&type=Date)](https://star-history.com/#PlexPt/Awesome-LLM-EN&Date)
