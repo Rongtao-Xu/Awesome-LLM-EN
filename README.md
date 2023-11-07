@@ -28,7 +28,7 @@ Among the numerous applications of LLMs, navigation tasks stand out as they requ
 ## Overview
 In this repository, we collect recent advances in unifying LLMs and Agents. We have identified two commonly used general models: 
 
-🤖 1) LLM for Planner and 
+🤖 1) LLM for Planner  
 
 🤖 2) LLM for Semantic Understanding..
 
