@@ -99,4 +99,4 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
 * LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models (ICCV, 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Song_LLM-Planner_Few-Shot_Grounded_Planning_for_Embodied_Agents_with_Large_Language_ICCV_2023_paper.pdf)
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/Awesome-LLM-EN&type=Date)](https://star-history.com/#PlexPt/Awesome-LLM-EN&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Rongtao-Xu/Awesome-LLM-EN&type=Date)](https://star-history.com/#Rongtao-Xu/Awesome-LLM-EN&Date)
