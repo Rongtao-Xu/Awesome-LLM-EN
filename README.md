@@ -46,8 +46,9 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Related Surveys](#related-surveys)
- -  [LLMs for Grounded Language Understanding](#llms-for-grounded-language-understanding)
+  - [LLMs for Grounded Language Understanding](#llms-for-grounded-language-understanding)
   - [LLMs for Few-Shot Planning](#llms-for-grounded-few-shot-planning)
+  - [Integrating Embodied Intelligence With Reinforcement Learning](#Integrating-Embodied-Intelligence-with-reinforcement-learning)
   - [Applications](#applications)
     - [Navigation](#navigation)
     - [Assistant](#assistant)
@@ -99,7 +100,7 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
 * Sqa3d: Situated question answering in 3d scenes (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2210.07474.pdf)
 * LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models (ICCV, 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Song_LLM-Planner_Few-Shot_Grounded_Planning_for_Embodied_Agents_with_Large_Language_ICCV_2023_paper.pdf)
 
-## Integrating Embodied Intelligence with Reinforcement Learning
+## Integrating Embodied Intelligence With Reinforcement Learning
 * Deep Reinforcement Learning-Based Online Domain Adaptation Method for Fault Diagnosis of Rotating Machinery (IEEE, 2021) [[paper]](https://ieeexplore.ieee.org/abstract/document/9626015)
 * A Control Strategy of Robot Eye-Head Coordinated Gaze Behavior Achieved for Minimized Neural Transmission Noise (IEEE, 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9916584)
 * Cocktail LSTM and Its Application Into Machine Remaining Useful Life Prediction (IEEE, 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10053378)
