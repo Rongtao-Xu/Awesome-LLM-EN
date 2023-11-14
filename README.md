@@ -35,9 +35,17 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
 <p align="center">
   <img src="figs/PlanningPic.png" width = "800"/>
 </p>
+<p align="center">
+  Fig.1: The first type employs LLMs as planners that directly generate actions, thereby leveraging exploration policies to control
+agent
+</p>
 
 <p align="center">
   <img src="figs/SemanticPic.png" width = "800"/>
+</p>
+<p align="center">
+  Fig.2: The second type utilizes LLMs to analyze incoming visual or textual data to extract goal-relevant information, <br>upon
+which exploration policies subsequently generate appropriate actions to guide 
 </p>
 
 ## Table of Contents
