@@ -72,6 +72,7 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
 * Dynamic Planning with a LLM (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2308.06391.pdf)
 * Chain-of-thought prompting elicits reasoning in large language models (NIPS, 2022) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)
 * From Machine Learning to Robotics: Challenges and Opportunities for Embodied Intelligence (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.15245.pdf)
+* Natural language processing (Springer, 2020) [[paper]](https://link.springer.com/chapter/10.1007/978-81-322-3972-7_19)
 
 
 ## LLMs for Grounded Language Understanding
@@ -97,6 +98,23 @@ In this repository, we collect recent advances in unifying LLMs and Agents. We h
 * OVRL-V2: A simple state-of-art baseline for ImageNav and ObjectNav (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2303.07798.pdf)
 * Sqa3d: Situated question answering in 3d scenes (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2210.07474.pdf)
 * LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models (ICCV, 2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Song_LLM-Planner_Few-Shot_Grounded_Planning_for_Embodied_Agents_with_Large_Language_ICCV_2023_paper.pdf)
+
+## Integrating Embodied Intelligence with Reinforcement Learning
+* Deep Reinforcement Learning-Based Online Domain Adaptation Method for Fault Diagnosis of Rotating Machinery (IEEE, 2021) [[paper]](https://ieeexplore.ieee.org/abstract/document/9626015)
+* A Control Strategy of Robot Eye-Head Coordinated Gaze Behavior Achieved for Minimized Neural Transmission Noise (IEEE, 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/9916584)
+* Cocktail LSTM and Its Application Into Machine Remaining Useful Life Prediction (IEEE, 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10053378)
+* Terrain Identification for Humanoid Robots Applying Convolutional Neural Networks (IEEE, 2020) [[paper]](https://ieeexplore.ieee.org/abstract/document/10053378)
+* A Survey on NLP based Text Summarization for Summarizing Product Reviews (IEEE, 2020) [[paper]](https://ieeexplore.ieee.org/abstract/document/9183355)
+* Prediction and Compensation of Contour Error of CNC Systems Based on LSTM Neural-Network (IEEE, 2021) [[paper]](https://ieeexplore.ieee.org/abstract/document/9384284)
+* A Behavior-Based Reinforcement Learning Approach to Control Walking Bipedal Robots Under Unknown Disturbances (IEEE, 2021) [[paper]](https://ieeexplore.ieee.org/abstract/document/9614170)
+* Localization for Multirobot Formations in Indoor Environment (IEEE, 2010) [[paper]](https://ieeexplore.ieee.org/abstract/document/5247038)
+* Leader-Following Formation Control of Nonholonomic Mobile Robots With Velocity Observers (IEEE, 2020) [[paper]](https://ieeexplore.ieee.org/abstract/document/9080066)
+* Motion Planning for Point-to-Point Navigation of Spherical Robot Using Position Feedback (IEEE, 2019) [[paper]](https://ieeexplore.ieee.org/abstract/document/8794742)
+* Simultaneous Hand–Eye/Robot–World/Camera–IMU Calibration (IEEE, 2029) [[paper]](https://ieeexplore.ieee.org/abstract/document/9511803)
+* The influence of preprocessing on text classification using a bag-of-words representation (PLOS, 2020) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232525)
+
+
+
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Rongtao-Xu/Awesome-LLM-EN&type=Date)](https://star-history.com/#Rongtao-Xu/Awesome-LLM-EN&Date)
